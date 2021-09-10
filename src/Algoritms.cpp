@@ -6,7 +6,6 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
-
 #include <iostream>
 #include <vector>
 #include <map>
